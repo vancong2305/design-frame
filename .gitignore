@@ -1,0 +1,59 @@
+﻿# Thư mục Visual Studio
+.vs/
+
+# File cấu hình người dùng của Visual Studio
+*.user
+*.suo
+
+# Thư mục build
+bin/
+obj/
+
+# Thư mục cấu hình của Visual Studio Code
+.vscode/
+
+# Các file log
+*.log
+
+# Các file tạm thời của hệ thống
+[Tt]humbs.db
+*.DS_Store
+
+# Các thư mục tạm thời của hệ thống
+.idea/
+.reSharper
+*.bak
+*.tmp
+*.old
+*.sln.docstates
+
+# Tệp của NuGet
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Thư mục Test Results
+TestResults/
+*.trx
+*.coverage
+*.testsettings
+*.runsettings
+
+# Các file tạm thời khác
+*.tmp
+*.cache
+*.pdb
+*.ldb
+
+# Các tệp nén, tạm
+*.zip
+*.rar
+*.tar.gz
+*.7z
+
+# Tệp của Windows
+*.db
+
+# Packages folder
+packages/
+*.nupkg
